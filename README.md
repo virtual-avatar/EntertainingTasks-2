@@ -1,5 +1,5 @@
 # EntertainingTasks-2
-
+```
 <?php
 /*
     Необходимо доработать класс рассылки Newsletter, что бы он отправлял письма
@@ -250,3 +250,4 @@ function sendAnyNewsletter(AbstractNewsletter $newsletter):void
 
 sendAnyNewsletter(new NewsletterEmail());
 sendAnyNewsletter(new NewsletterPush());
+```
