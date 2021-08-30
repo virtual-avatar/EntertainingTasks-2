@@ -1,4 +1,7 @@
 # EntertainingTasks-2
+
+#Проверить решение можно на сервисе https://sandbox.onlinephpfunctions.com/
+
 ```
 /*
     Необходимо доработать класс рассылки Newsletter, что бы он отправлял письма
